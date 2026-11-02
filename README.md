@@ -3,6 +3,11 @@
 
 ![Demonstração do TaskFlow](taskflow.png)
 <div align="center">
+## 🚀 Experimente o TaskFlow
+
+[![Testar Aplicativo](https://img.shields.io/badge/🚀_TESTAR_APLICATIVO-00C853?style=for-the-badge)](https://Erickandrad07.github.io/lista-de-tarefas/)
+
+Clique no botão acima para acessar o aplicativo.
 
 ### 🚀 Organize suas tarefas, acompanhe seu progresso e aumente sua produtividade!
 
