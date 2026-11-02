@@ -1,5 +1,7 @@
 # ✅ TaskFlow — Gerenciador de Tarefas
+## 📸 Visualização do Projeto
 
+![Demonstração do TaskFlow](taskflow.png)
 <div align="center">
 
 ### 🚀 Organize suas tarefas, acompanhe seu progresso e aumente sua produtividade!
