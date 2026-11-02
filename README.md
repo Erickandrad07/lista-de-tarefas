@@ -1,22 +1,37 @@
 # ✅ TaskFlow — Gerenciador de Tarefas
 
-Projeto de estudo para praticar **HTML, CSS e JavaScript**.
+<div align="center">
 
-## Funcionalidades
-- Adicionar e excluir tarefas.
-- Marcar tarefas como concluídas.
-- Filtrar por todas, pendentes ou concluídas.
-- Salvar as tarefas no navegador usando `localStorage`.
-- Interface responsiva e acessível.
+### 🚀 Organize suas tarefas, acompanhe seu progresso e aumente sua produtividade!
 
-## Como executar
-Abra `index.html` no navegador. Não precisa instalar programas ou dependências.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Publicar no GitHub Pages
-No repositório, acesse **Settings → Pages → Build and deployment → Deploy from a branch**, selecione `main` e `/ (root)`, e salve. O endereço será `https://Erickandrad07.github.io/lista-de-tarefas/` após a publicação.
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue?style=flat-square)
+![Projeto](https://img.shields.io/badge/Projeto-Portf%C3%B3lio-green?style=flat-square)
 
-## Próximas melhorias
-- Editar o texto de uma tarefa.
-- Inserir datas e prioridades.
+</div>
 
-**Autor do portfólio:** Erick Andrade (`Erickandrad07`). Base inicial de estudo preparada com assistência de IA; personalize e compreenda o código antes de apresentá-lo como trabalho próprio.
+---
+
+## 📌 Sobre o Projeto
+
+O **TaskFlow** é uma aplicação web desenvolvida para facilitar a organização de tarefas do dia a dia, proporcionando uma experiência simples, intuitiva e funcional.
+
+O projeto faz parte do meu portfólio de estudos em **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de habilidades práticas em programação e na aplicação de conceitos fundamentais de desenvolvimento web.
+
+Durante o desenvolvimento e estudo deste projeto, são explorados conceitos como:
+
+- Estruturação de páginas com HTML5.
+- Estilização e responsividade com CSS3.
+- Manipulação do DOM com JavaScript.
+- Tratamento de eventos e interações do usuário.
+- Armazenamento local de informações com `localStorage`.
+- Organização e manutenção de código.
+
+---
+
+## ⚙️ Funcionalidades
+
+O TaskFlow foi projetado para oferecer recursos essenciais
